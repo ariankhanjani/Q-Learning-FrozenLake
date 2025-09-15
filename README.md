@@ -32,7 +32,7 @@ The agent navigating the FrozenLake environment:
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/q_learning_frozenlake.git
+git clone https://github.com/ariankhanjani/q_learning_frozenlake.git
 cd q_learning_frozenlake
 pip install -r requirements.txt
 
